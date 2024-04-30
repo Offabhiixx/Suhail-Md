@@ -7,8 +7,8 @@ global.audio= "" ;
 global.video= "" ;
 global.port =process.env.PORT
 global.appUrl=process.env.APP_URL || ""                       // put your app url here,
-global.email ="saimsamsun789@gmail.com"
-global.location="Lahore,Pakistan."
+global.email ="abhiiprajusha92@gmail.com"
+global.location="kerala,India."
 
 
 global.mongodb= process.env.MONGODB_URI || "mongodb+srv://abhiiprajusha92:abhiiprajusha92@abhii.0j30iy8.mongodb.net/?retryWrites=true&w=majority&appName=abhii"
@@ -16,7 +16,7 @@ global.allowJids= process.env.ALLOW_JID || "null"
 global.blockJids= process.env.BLOCK_JID || "null"
 global.DATABASE_URL = process.env.DATABASE_URL || "postgres://abhii_user:pcj38L2MxW6kbHRQdDj5sOyO6NOz0HtC@dpg-coj2i7tjm4es73a1afpg-a.oregon-postgres.render.com/abhii"
 
-global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Karachi";
+global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Kolkata";
 global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029Va9thusJP20yWxQ6N643" ; 
